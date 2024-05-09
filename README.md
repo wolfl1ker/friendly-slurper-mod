@@ -32,6 +32,18 @@ The original Dont Starve game is required for this modification.
 
 ![screenshot.jpg](about%2Fscreenshot.jpg)
 
+## Installation
+
+Installation with Steam:
+- Click _Subscribe_ button and Steam will automatically download mod to the game files.
+- Activate mode within the game
+
+Manual Installation
+- Clone the repository
+- Create folder at %game_folder%/mods/friendly-slurper/
+- Copy all files from _src_ folder to newly created folder
+- Activate mode within the game
+
 ## Stats
 
 Stats of the mod on Steam Workshop:
