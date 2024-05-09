@@ -1,0 +1,6 @@
+<Atlas>
+	<Texture filename="lickings_tab.tex" />
+	<Elements>
+		<Element name="lickings_tab.tex" u1="0.000001" u2="0.999999" v1="0.000001" v2="0.9999999" />
+	</Elements>
+</Atlas>

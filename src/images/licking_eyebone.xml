@@ -1,0 +1,8 @@
+<Atlas>
+	<Texture filename="licking_eyebone.tex" />
+	<Elements>
+		<Element name="licking_eyebone.tex" u1="0.0000001" u2="0.9999999" v1="0.0000001" v2="0.9999999" />
+		<Element name="iso_licking_eyebone.tex" u1="0.0000003" u2="0.9999997" v1="0.0000003" v2="0.9999997" />
+		<Element name="tpg_licking_eyebone.tex" u1="0.0000002" u2="0.9999998" v1="0.0000002" v2="0.9999998" />
+	</Elements>
+</Atlas>

@@ -1,0 +1,8 @@
+﻿<Atlas>
+	<Texture filename="licking.tex" />
+	<Elements>
+		<Element name="licking.tex" u1="0.0000001" u2="0.9999998" v1="0.0000001" v2="0.9999998" />
+		<Element name="iso_licking.tex" u1="0.0000001" u2="0.9999998" v1="0.0000001" v2="0.9999998" />
+		<Element name="tpg_licking.tex" u1="0.0000001" u2="0.9999998" v1="0.0000001" v2="0.9999998" />
+	</Elements>
+</Atlas>

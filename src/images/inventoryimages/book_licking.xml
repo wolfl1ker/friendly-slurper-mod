@@ -1,0 +1,7 @@
+<Atlas>
+<Texture filename="book_licking.tex" />
+	<Elements>
+		<Element name="book_licking.tex" u1="0.000001" u2="0.99999" v1="0.000001" v2="0.999999" />
+		<Element name="lickings_pelt.tex" u1="0.000002" u2="0.99998" v1="0.000002" v2="0.999998" />
+	</Elements>
+</Atlas>
